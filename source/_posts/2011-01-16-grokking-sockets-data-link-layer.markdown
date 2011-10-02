@@ -22,6 +22,8 @@ forgotten because it's usually handled by your network card. Even though
 it's hidden, you need to understand it because it is the final step in
 transmission before hardware. 
 
+<!--more-->
+
 The [data link layer](http://en.wikipedia.org/wiki/Data_Link_Layer) is the first step
 in managing the connection between two network adapters on the same LAN.
 It really has two main jobs, and in 
