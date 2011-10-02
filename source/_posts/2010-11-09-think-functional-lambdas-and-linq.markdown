@@ -4,6 +4,7 @@ layout: post
 slug: think-functional-lambdas-and-linq
 status: publish
 title: 'Think Functional: Lambdas and LINQ'
+comments: true
 categories:
 - .NET
 - Programming

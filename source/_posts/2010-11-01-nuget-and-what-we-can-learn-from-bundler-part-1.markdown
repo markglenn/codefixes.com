@@ -4,6 +4,7 @@ layout: post
 slug: nuget-and-what-we-can-learn-from-bundler-part-1
 status: publish
 title: NuGet and what we can learn from Bundler, Part 1
+comments: true
 categories:
 - .NET
 - General

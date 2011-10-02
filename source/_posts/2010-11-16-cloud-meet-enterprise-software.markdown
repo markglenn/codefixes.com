@@ -4,6 +4,7 @@ layout: post
 slug: cloud-meet-enterprise-software
 status: publish
 title: 'Cloud, Meet Enterprise Software'
+comments: true
 categories:
 - General
 tags:

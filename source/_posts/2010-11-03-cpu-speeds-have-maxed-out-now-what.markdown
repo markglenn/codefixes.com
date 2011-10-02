@@ -5,6 +5,7 @@ layout: post
 slug: cpu-speeds-have-maxed-out-now-what
 status: publish
 title: CPU speeds have maxed out... now what?
+comments: true
 categories:
 - Programming
 tags:

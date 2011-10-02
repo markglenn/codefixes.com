@@ -4,6 +4,7 @@ layout: post
 slug: grokking-sockets-data-link-layer
 status: publish
 title: 'Grokking Sockets: Data Link Layer'
+comments: true
 categories:
 - Grokking Sockets
 tags:

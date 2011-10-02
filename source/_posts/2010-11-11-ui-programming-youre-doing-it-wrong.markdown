@@ -4,6 +4,7 @@ layout: post
 slug: ui-programming-youre-doing-it-wrong
 status: publish
 title: 'UI Programming: You''re Doing It Wrong'
+comments: true
 categories:
 - .NET
 - Multithreading

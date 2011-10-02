@@ -4,6 +4,7 @@ layout: post
 slug: why-are-you-still-crashing
 status: publish
 title: Why are you still crashing?
+comments: true
 categories:
 - General
 - Programming

@@ -5,6 +5,7 @@ layout: post
 slug: version-numbers-arent-they-supposed-to-mean-something
 status: publish
 title: Version numbers... Aren't they supposed to mean something?
+comments: true
 categories:
 - General
 ---

@@ -4,6 +4,7 @@ layout: post
 slug: maybe-your-api-sucks
 status: publish
 title: Maybe Your API Sucks
+comments: true
 categories:
 - .NET
 - Programming

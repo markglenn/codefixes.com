@@ -4,6 +4,7 @@ layout: post
 slug: think-functional-immutable-types-and-idempotence
 status: publish
 title: "Think Functional: Immutable Types and Idempotence"
+comments: true
 categories:
 - .NET
 - C++

@@ -5,6 +5,7 @@ layout: post
 slug: coders-survival-guide-to-startup-weekend
 status: publish
 title: Coders\' survival guide to Startup Weekend
+comments: true
 categories:
 - General
 tags:

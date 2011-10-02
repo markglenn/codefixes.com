@@ -5,7 +5,7 @@ layout: post
 slug: cross-platform-net
 status: publish
 title: Cross Platform .NET
-wordpress_id: '239'
+comments: true
 categories:
 - .NET
 - Programming

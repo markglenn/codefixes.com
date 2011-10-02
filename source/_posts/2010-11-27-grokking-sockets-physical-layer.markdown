@@ -4,6 +4,7 @@ layout: post
 slug: grokking-sockets-physical-layer
 status: publish
 title: 'Grokking Sockets: Physical Layer'
+comments: true
 categories:
 - Grokking Sockets
 tags:

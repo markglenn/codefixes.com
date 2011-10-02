@@ -5,6 +5,7 @@ layout: post
 slug: grokking-sockets-overview
 status: publish
 title: 'Grokking Sockets: Overview'
+comments: true
 categories:
 - Grokking Sockets
 - Programming

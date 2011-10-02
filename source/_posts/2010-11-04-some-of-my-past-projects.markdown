@@ -4,6 +4,7 @@ layout: post
 slug: some-of-my-past-projects
 status: publish
 title: Some of my past projects
+comments: true
 categories:
 - General
 tags:
