@@ -25,15 +25,15 @@ hosted the main DLLs.
 <!--more-->
 
 In comes NuGet/NuPack. This really got me excited
-since I had been accustomed to packaging systems such as [ruby
-gems](http://rubygems.org/) and Debian's
+since I had been accustomed to packaging systems such as [ruby gems](http://rubygems.org/) and Debian's
 [aptitude](http://en.wikipedia.org/wiki/Aptitude_(software)). I can now
 pick and choose which third party assemblies I want, and have it install
 everything automatically. It also handles the dependencies and upgrades
 as needed. I can just choose NHibernate.Core, and its insurmountable
 dependencies are pulled in for me.
 
-[![image](http://www.codefixes.com/wp-content/uploads/2010/11/nuget-screenshot1-300x168.png "nuget screenshot")](http://www.codefixes.com/wp-content/uploads/2010/11/nuget-screenshot1.png)
+{%img /images/blog/nuget-screenshot1.png "nuget screenshot" %}
+
 Once I clicked the install button, NHibernate and all its dependencies
 were cleanly added to my project, and a nice little *packages.config*
 file was added with the following content:

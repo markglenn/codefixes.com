@@ -15,7 +15,7 @@ tags:
 - ui
 ---
 
-[<img src='http://www.codefixes.com/wp-content/uploads/2011/09/Mono-gorilla-aqua.100px.png' style='float: right' />](http://www.mono-project.com/Main_Page)
+[{% img right /images/blog/Mono-gorilla-aqua.100px.png %}](http://www.mono-project.com/Main_Page)
 Working on software that runs on multiple machines can be time consuming, error
 prone, and complicated. Not only do each of the three major operating
 systems have different style guidelines, but they even have different

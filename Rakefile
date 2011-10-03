@@ -7,7 +7,7 @@ require "stringex"
 ssh_user       = "user@domain.com"
 ssh_port       = "22"
 document_root  = "~/website.com/"
-deploy_default = "rsync"
+deploy_default = "push"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
@@ -349,6 +349,11 @@ def ask(message, valid_options)
     answer = get_stdin(message)
   end
   answer
+end
+
+desc "Deploys to s3 instance"
+task :s3deploy do
+  system "s3cmd sync --recursive -P --delete-removed public/* s3://codefixes.com/"
 end
 
 desc "list tasks"

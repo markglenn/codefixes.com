@@ -15,7 +15,7 @@ tags:
 - ui
 ---
 
-[![Hourglass](http://www.codefixes.com/wp-content/uploads/2010/11/hourglass-150x150.jpg "hourglass")](http://www.codefixes.com/wp-content/uploads/2010/11/hourglass.jpg)
+{% img right /images/blog/hourglass.jpg "hourglass" %}
 Let me ask you a question; a serious question. How are you handling events
 in your GUI applications? Are you just running code whenever an event
 comes? Is your application trying to work well with others? 

@@ -12,7 +12,7 @@ tags:
 - programming
 ---
 
-[![image](http://www.codefixes.com/wp-content/uploads/2011/06/error2-300x189.jpg "Windows Error")](http://www.codefixes.com/wp-content/uploads/2011/06/error2.jpg)
+{% img right /images/blog/error2.jpg "Windows Error" %}
 I know this is going to be a bit of a controversial topic, but this has
 come to bite me recently. An application that I recently purchased that
 allowed me to access [GitHub](https://github.com/markglenn) from my
@@ -94,8 +94,8 @@ especially with exceptions. Patterns such as
 [RAII](http://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization)
 in C++ and [smart pointers](http://en.wikipedia.org/wiki/Smart_pointer)
 mitigate these worries, but the language still allows you to shoot
-yourself in the foot if you aren't careful with using these. I hear [iOS
-5](http://developer.apple.com/technologies/ios5/) is going to get
+yourself in the foot if you aren't careful with using these. I hear
+[iOS 5](http://developer.apple.com/technologies/ios5/) is going to get
 [reference counting](http://en.wikipedia.org/wiki/Reference_counting)
 for Objective C, so this may be a moot point in a few months.
 

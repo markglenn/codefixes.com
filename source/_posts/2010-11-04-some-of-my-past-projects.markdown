@@ -36,16 +36,15 @@ as my senior design project in undergrad. It was a full blown Quake 2 engine
 including rendering, physics, animations, sound, and music. I have to go find
 that code.
 
-[![image](http://www.codefixes.com/wp-content/uploads/2010/11/screenshot1-300x261.jpg
-"Quake 2 style
-engine")](http://www.codefixes.com/wp-content/uploads/2010/11/screenshot1.jpg)
+{% img /images/blog/screenshot1.jpg "Quake 2 style engine" %}
+
 I went on to work for Motorola after college. I was working in a research and
 design group in the cell phone division. I was actually working with the people
 who designed the original RAZR, and my pride and joy was the "morphing" phone
 called the MOTOROKR E8.
 
-[![image](http://www.codefixes.com/wp-content/uploads/2010/11/motorola-rokr-e8-combo-300x210.jpg
-"Motorola ROKR E8")](http://www.codefixes.com/wp-content/uploads/2010/11/motorola-rokr-e8-combo.jpg)
+{% img /images/blog/motorola-rokr-e8-combo.jpg "Motorola ROKR E8" %}
+
 I wrote all the software for the original prototype, and helped in analyzing
 and fine tuning the morphing, capacitive sensor, and the
 [haptics](http://en.wikipedia.org/wiki/Haptic_technology). By the way, the
@@ -98,7 +97,6 @@ weekend in [Chicago](http://chicago.startupweekend.org/). Actually if you go to
 that link, the [top story](http://chicago.startupweekend.org/coders'-survival-guide-to-startup-weekend/)
 (as of this writing) may [look familiar](http://www.codefixes.com/2010/11/coders-survival-guide-to-startup-weekend/).
 Yes, it's my article!  Chris, one of the people running Chicago Startup
-Weekend, [asked to republish my article](http://www.codefixes.com/2010/11/coders-survival-guide-to-startup-weekend/#comment-5)
-on the site. So I'm a proud guest writer. Not bad for a guy who got B's and C's
+Weekend, asked to republish my article on the site. So I'm a proud guest writer. Not bad for a guy who got B's and C's
 in english and writing classes. Anyway, I hope to see you there.  Also make
 sure you have your [tickets for the event](http://www.eventbrite.com/event/936652553).

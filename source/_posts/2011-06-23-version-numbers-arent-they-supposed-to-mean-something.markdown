@@ -10,7 +10,7 @@ categories:
 - General
 ---
 
-<img src='http://www.codefixes.com/wp-content/uploads/2011/06/google-chrome-version-300x171.png' alt="google chrome version" style='float: right' />
+{% img right /images/blog/google-chrome-version.png 'google chrome version' %}
 
 Software that's been out for many years: v0.71. Google Chrome that's
 been out for a short time: v12.0. What has happened to version numbers
