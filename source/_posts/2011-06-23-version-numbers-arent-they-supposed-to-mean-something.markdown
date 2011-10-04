@@ -1,10 +1,8 @@
 ---
 author: markglenn
-date: '2011-06-23 21:22:03'
 layout: post
-slug: version-numbers-arent-they-supposed-to-mean-something
-status: publish
 title: Version numbers... Aren't they supposed to mean something?
+keywords: version,programming
 comments: true
 categories:
 - General

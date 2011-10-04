@@ -1,18 +1,13 @@
 ---
 author: markglenn
 layout: post
-slug: think-functional-lambdas-and-linq
-status: publish
-title: 'Think Functional: Lambdas and LINQ'
+title: "Think Functional: Lambdas and LINQ"
+description: Using Lambda and LINQ to develop using functional programming styles
+keywords: lambda,linq,think functional,functional,programming,idempotence,.NET
 comments: true
 categories:
 - .NET
 - Programming
-tags:
-- c#
-- functional
-- LINQ
-- programming
 ---
 
 If you haven't read the previous post, 

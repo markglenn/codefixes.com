@@ -1,15 +1,14 @@
 ---
 author: markglenn
 layout: post
-slug: why-are-you-still-crashing
 status: publish
 title: Why are you still crashing?
 comments: true
+keywords: programming,.NET,crash,bug
+description: You can avoid crashes in your application
 categories:
 - General
 - Programming
-tags:
-- programming
 ---
 
 {% img right /images/blog/error2.jpg "Windows Error" %}

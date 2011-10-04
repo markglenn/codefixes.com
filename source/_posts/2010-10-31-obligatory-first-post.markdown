@@ -1,8 +1,6 @@
 ---
 author: markglenn
 layout: post
-slug: obligatory-first-post
-status: publish
 title: Obligatory first post
 comments: true
 categories:

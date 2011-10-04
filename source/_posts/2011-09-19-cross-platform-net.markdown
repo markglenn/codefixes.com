@@ -1,18 +1,14 @@
 ---
 author: markglenn
-date: '2011-09-19 21:53:12'
 layout: post
-slug: cross-platform-net
 status: publish
 title: Cross Platform .NET
 comments: true
+keywords: mono,.NET,cross platform,ui
+description: .NET is your best bet for true cross platform UIs
 categories:
 - .NET
 - Programming
-tags:
-- c#
-- programming
-- ui
 ---
 
 [{% img right /images/blog/Mono-gorilla-aqua.100px.png %}](http://www.mono-project.com/Main_Page)

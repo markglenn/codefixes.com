@@ -1,17 +1,12 @@
 ---
 author: markglenn
-date: '2010-11-03 22:24:13'
 layout: post
-slug: cpu-speeds-have-maxed-out-now-what
-status: publish
 title: CPU speeds have maxed out... now what?
+description: Using multiprocessing now that CPU speeds have maxed out
+keywords: CPU,multicore,programming,ARM,RISC,thread,parallel,LINQ
 comments: true
 categories:
 - Programming
-tags:
-- functional
-- programming
-- threading
 ---
 
 So, you now have this 8 core powerhouse. It has more horsepower than your old

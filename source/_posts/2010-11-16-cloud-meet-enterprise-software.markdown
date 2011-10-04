@@ -1,16 +1,12 @@
 ---
 author: markglenn
 layout: post
-slug: cloud-meet-enterprise-software
-status: publish
-title: 'Cloud, Meet Enterprise Software'
+title: Cloud, Meet Enterprise Software
+description: Mixing enterprise level data using the cloud
+keywords: cloudbot,cloud,programming,enterprise,software
 comments: true
 categories:
 - General
-tags:
-- entrepreneur
-- social
-- startup
 ---
 
 What defines enterprise level software? It's usually defined by software

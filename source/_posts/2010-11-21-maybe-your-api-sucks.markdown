@@ -1,16 +1,15 @@
 ---
 author: markglenn
 layout: post
-slug: maybe-your-api-sucks
 status: publish
 title: Maybe Your API Sucks
+description: Bad API design causes frustration with your users
+keywords: API,programming,rails
 comments: true
 categories:
 - .NET
 - Programming
 - Ruby on Rails
-tags:
-- programming
 ---
 
 This goes back to my love/hate relationship with Ruby on Rails. I'm an

@@ -1,10 +1,9 @@
 ---
 author: markglenn
-date: '2010-11-02 21:52:46'
 layout: post
-slug: coders-survival-guide-to-startup-weekend
-status: publish
-title: Coders\' survival guide to Startup Weekend
+title: Coders' survival guide to Startup Weekend
+description: Guide to startup weekend for programmers
+keywords: startup,startup weekend,entrepreneur,programming
 comments: true
 categories:
 - General

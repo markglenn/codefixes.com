@@ -1,19 +1,14 @@
 ---
 author: markglenn
 layout: post
-slug: think-functional-immutable-types-and-idempotence
-status: publish
 title: "Think Functional: Immutable Types and Idempotence"
+description: Programming using immutable types and idempotence
+keywords: think functional,functional,programming,erlang,haskell,c#
 comments: true
 categories:
 - .NET
 - C++
 - Programming
-tags:
-- c#
-- c++
-- functional
-- programming
 ---
 
 I already talked about functional programming recently in a 

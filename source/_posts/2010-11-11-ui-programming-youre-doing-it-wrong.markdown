@@ -1,18 +1,14 @@
 ---
 author: markglenn
 layout: post
-slug: ui-programming-youre-doing-it-wrong
-status: publish
-title: 'UI Programming: You''re Doing It Wrong'
+title: "UI Programming: You're Doing It Wrong"
+description: Multiprocessing to significantly improve user interface response times
+keywords: user interface,ui,programming,multicore,thread
 comments: true
 categories:
 - .NET
 - Multithreading
 - Programming
-tags:
-- c#
-- threading
-- ui
 ---
 
 {% img right /images/blog/hourglass.jpg "hourglass" %}

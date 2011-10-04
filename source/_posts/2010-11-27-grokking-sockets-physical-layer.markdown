@@ -1,14 +1,12 @@
 ---
 author: markglenn
 layout: post
-slug: grokking-sockets-physical-layer
-status: publish
-title: 'Grokking Sockets: Physical Layer'
+title: "Grokking Sockets: Physical Layer"
+description: "Grokking Sockets: Physical Layer"
+keywords: grokking,sockets,physical,network,programming
 comments: true
 categories:
 - Grokking Sockets
-tags:
-- networking
 ---
 
 After a short time of thinking, I've decided to focus on the 7 layers of
@@ -74,16 +72,15 @@ our PCs.
 That's where the complicated spread spectrum type modulations
 come into play. At its most basic level, a signal is transmitted on a
 coded set of frequencies that is agreed upon by the sender and receiver.
-This is called [code division multiple
-access](http://en.wikipedia.org/wiki/Code_division_multiple_access).
+This is called [code division multiple access](http://en.wikipedia.org/wiki/Code_division_multiple_access).
 Since the frequencies are coded, another sender can send on a different
 code simultaneously. The receiver then takes the full spectrum, and
 using advanced math that is above my level, extracts or de-spreads the
 original transmission.
 
 There are further ways of handling interference
-such as 802.11n's use of [orthogonal frequency-division
-multiplexing](http://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing).
+such as 802.11n's use of 
+[orthogonal frequency-division multiplexing](http://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing).
 It uses multiple signals,
 [subcarries](http://en.wikipedia.org/wiki/Subcarrier), and higher level
 math than the previous versions. If you're really interested, or just a
@@ -111,8 +108,7 @@ You can also switch bands all together
 to the 5GHz band. There will be generally less interference on this band
 right now since most consumer grade electronics don't use it. Plus the
 added benefit of 802.11n's four simultaneous open channels using
-[multiple input, multiple
-output](http://en.wikipedia.org/wiki/Multiple-input_multiple-output) and
+[multiple input, multiple output](http://en.wikipedia.org/wiki/Multiple-input_multiple-output) and
 its multiple antenna array for allowing directional transmission will
 give you much higher performance with much less broadcast noise.
 

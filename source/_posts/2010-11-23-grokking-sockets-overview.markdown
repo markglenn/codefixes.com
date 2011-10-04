@@ -2,16 +2,13 @@
 author: markglenn
 date: '2010-11-23 23:19:56'
 layout: post
-slug: grokking-sockets-overview
-status: publish
-title: 'Grokking Sockets: Overview'
+title: "Grokking Sockets: Overview"
+description: "Grokking Sockets: Overview"
+keywords: grokking,sockets,programming
 comments: true
 categories:
 - Grokking Sockets
 - Programming
-tags:
-- networking
-- programming
 ---
 
 I've worked with socket programming on and off (mostly on) for a good

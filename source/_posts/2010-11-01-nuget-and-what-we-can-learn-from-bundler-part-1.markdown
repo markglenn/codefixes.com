@@ -1,9 +1,9 @@
 ---
 author: markglenn
 layout: post
-slug: nuget-and-what-we-can-learn-from-bundler-part-1
-status: publish
 title: NuGet and what we can learn from Bundler, Part 1
+description: NuGet vs Ruby gems and what we can learn from each
+keywords: nuget,gems,ruby,.NET,programming
 comments: true
 categories:
 - .NET

@@ -1,9 +1,9 @@
 ---
 author: markglenn
 layout: post
-slug: grokking-sockets-data-link-layer
-status: publish
-title: 'Grokking Sockets: Data Link Layer'
+title: "Grokking Sockets: Data Link Layer"
+description: "Grokking Sockets: Data Link Layer"
+keywords: grokking,sockets,data link layer,programming
 comments: true
 categories:
 - Grokking Sockets
