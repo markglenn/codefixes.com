@@ -2,6 +2,8 @@
 layout: post
 title: Why I chose Rails over MVC
 comments: true
+keywords: .NET,MVC,ruby,rails,programming
+description: Ruby on Rails vs ASP.NET MVC and why I chose rails
 categories:
 - .NET
 - Rails
