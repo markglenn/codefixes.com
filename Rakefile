@@ -353,7 +353,7 @@ end
 
 desc "Deploys to s3 instance"
 task :s3deploy do
-  system "s3cmd sync --recursive -P --delete-removed public/* s3://codefixes.com/"
+  system "s3cmd sync --recursive -P --delete-removed public/* s3://www.codefixes.com/"
 end
 
 desc "list tasks"
