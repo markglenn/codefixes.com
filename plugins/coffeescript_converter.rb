@@ -14,7 +14,7 @@ module Jekyll
 
     def convert(content)
       begin
-        CoffeeScript.compile content, :bare => true
+        CoffeeScript.compile content
       rescue StandardError => e
         puts "CoffeeScript error:" + e.message
       end
