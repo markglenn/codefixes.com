@@ -101,7 +101,7 @@ V1 and some parts of V2 of the MVC framework.
 The Rails community follows more along the lines of the Linux and Unix
 mentality of having tools do one thing and do them well.  With the fact that
 everything runs separately, I can have a script run things automatically for
-me.  This is exactly what I do with link:https://github.com/guard/guard[Guard]
+me.  This is exactly what I do with [Guard](https://github.com/guard/guard)
 which runs my unit tests automatically every time I save.  It also alerts me on
 success or failure using [Growl](http://growl.info/) so I don't have to
 interrupt what I'm doing.
