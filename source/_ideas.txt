@@ -1,0 +1,4 @@
+- Programmers' Back (Series)
+- Sliding tabs demo
+- Are ruby developers behind in software engineering?
+- Think functional - Ruby edition
