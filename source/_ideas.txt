@@ -2,3 +2,7 @@
 - Sliding tabs demo
 - Are ruby developers behind in software engineering?
 - Think functional - Ruby edition
+- Vim: The ultimate developer tool?
+- You're testing wrong
+ - Model tests, duplicate code
+ - Speeding up tests in spite of code ( Corey Haines talk )
