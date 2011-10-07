@@ -16,8 +16,8 @@ This isn't just a face lift, but a complete rewrite of the blog software that
 I use.  I used to be hosting this site on wordpress, but I found I was battling
 the system too often and trying to find work arounds for the quirks.
 Now this site is just a bunch of static HTML files that were nicely
-generated using [Octopress](http://octopress.org/) and [Jekyll](http://jekyllrb.com/).  
-This should significantly improve the speed of the site and allow me to write 
+generated using [Octopress](http://octopress.org/) and [Jekyll](http://jekyllrb.com/). This 
+should significantly improve the speed of the site and allow me to write 
 more often (with more code examples).  I'm also finally able to host on "the cloud" 
 using [Amazon's S3](http://aws.amazon.com/s3/) service which
 finally allows me to do automated deployments.  As an added bonus, it also 
