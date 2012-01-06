@@ -30,11 +30,11 @@ Many of the people I've talked to about seed money see it as the way to personal
 Crowd Sourcing
 --------------
 
-The idea is solid enough.  Build it, and they will come.  If you're trying to make another social networking site, let me stop you here.  If you build it, it will sit idle.  You have a catch-22 here.  People drive content, but you can't interest people until you have that content.  So, if your business plan requires your content to be created by others, you have to find a different way of bringing in these users.
+The idea is solid enough.  Build it, and they will come.  If you're trying to make another social networking site, let me stop you here.  If you build it, it will sit idle.  You have a catch-22 here.  People drive content, but you can't intice those people until you have that content.  So, if your business plan requires your content to be created by others, you have to find a different way of bringing in these users.
 
 Now, think about your business plan.  Do you have a good way of bringing in these users without Tweeting, FaceBooking, or whatever the verb format of Google Plus is?  If you don't, your idea is probably doomed to failure.  Go back, look at a different way of generating content or bringing in those users.
 
-The internet is full of users that could be described as having Attention Deficit Disorder (ADD).  And, because of how easy it is to create simple web applications for non professional programmers, there are tons of social sites available.  You have to find a way of not only bringing that user to your site for the first time, but also keep their attention long enough for them to care about coming back.
+The internet is full of users that could be described as having Attention Deficit Disorder (ADD).  And, because of how easy it is to create simple web applications even for non professional programmers, there are tons of social sites available.  You have to find a way of not only bringing that user to your site for the first time, but also keep their attention long enough for them to care about coming back.
 
 Growth Opportunity
 ------------------
