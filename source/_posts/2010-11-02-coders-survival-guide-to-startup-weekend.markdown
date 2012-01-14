@@ -54,9 +54,7 @@ and social.
 Everyone has an idea for the next big thing. You'll probably hear 50 or more
 during the pitch session. Don't be afraid to tell people your million dollar
 idea. Hey, this is your chance to find some people to help you actually finish
-that project. [Don't worry about people stealing your ideas. If your ideas are
-any good, you'll have to ram them down people's
-throats](http://en.wikiquote.org/wiki/Howard_H._Aiken).
+that project. [Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats](http://en.wikiquote.org/wiki/Howard_H._Aiken).
 
 ## 3) You are a rare commodity
 
@@ -76,8 +74,8 @@ If you get caught up in a long conversation, just tell the person you're
 looking forward to possibly working with them and ask for a business card so
 you can stay in touch. You're here to make contacts. Oh yeah, bring business
 cards, even if they just have your blog on them. $20 buys you 100 cards, more
-than enough to pass out over the weekend. I just ordered a few from
-[overnightprints.com](http://www.overnightprints.com/businesscards).
+than enough to pass out over the weekend. I just ordered a few 
+from [overnightprints.com](http://www.overnightprints.com/businesscards).
 
 ## 5) It's a long weekend...
 
@@ -104,10 +102,8 @@ Also, that windows laptop really won't cut it. I hate to say it (as I'm typing
 on my Windows 7 laptop), but Ruby on Rails sucks on Windows. No worries though,
 just download [VirtualBox](http://www.virtualbox.org/) and the latest copy of
 [Ubuntu](http://www.ubuntu.com/desktop)and go wild. Installing Rails on Ubuntu
-is a breeze if you follow the [simple
-instructions](http://excid3.com/blog/2010/10/ruby-on-rails-3-and-mysql-on-ubuntu-10-10/).
-For those still inclined to stick with windows, you can follow [those
-instructions](http://accidentaltechnologist.com/ruby-on-rails/running-rails-3-on-windows/)
+is a breeze if you follow the [simple instructions](http://excid3.com/blog/2010/10/ruby-on-rails-3-and-mysql-on-ubuntu-10-10/).
+For those still inclined to stick with windows, you can follow [those instructions](http://accidentaltechnologist.com/ruby-on-rails/running-rails-3-on-windows/)
 instead.
 
 ## 7) Have fun
@@ -117,7 +113,6 @@ people are there to socialize and have a good time. Don't stress about adding
 that last minute feature. Don't stress over the quality of the code. Just get
 things done and have fun. Remember, this is probably the only time you get to
 prototype something and actually throw away the code and start over if you move
-on to production. There won't be any managers telling you: "It looks great,
-when can we release it." [Pointy haired
-bosses](http://en.wikipedia.org/wiki/Pointy-haired_Boss) need not apply to this
-domain.
+on to production. There won't be any managers telling you: "It looks great, when 
+can we release it." [Pointy haired bosses](http://en.wikipedia.org/wiki/Pointy-haired_Boss) 
+need not apply to this domain.
