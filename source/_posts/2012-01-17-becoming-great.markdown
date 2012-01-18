@@ -53,7 +53,7 @@ Ruby and Rails.  This makes me fairly marketable since I can confidently apply f
 or Perl.  Being marketable should be high on anyone's priorities due to the state of the job market in a whole 
 (recession) and the job market for programmers (booming).  
 
-Now I'll tell you what I'm not.  I'm don't have any certifications.  I've never been comfortable enough with a 
+Now I'll tell you what I'm not.  I don't have any certifications.  I've never been comfortable enough with a 
 language to contribute to their core library.  I don't know exactly how the garbage collectors work in .NET or
 Java.  There are a lot of things I just don't know about the languages I work in daily, the small details about
 a language that are not required to be known to write great code within its confines.
