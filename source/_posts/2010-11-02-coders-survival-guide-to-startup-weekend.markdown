@@ -13,8 +13,8 @@ tags:
 - startup
 ---
 
-As you may or may not know, [Startup Weekend](http://startupweekend.org) is
-weekend where business developers, coders and designers get together for one
+As you may or may not know, [Startup Weekend](http://startupweekend.org) is a
+weekend where business developers, coders, and designers get together for one
 long weekend and try to create a startup project from idea to production. This
 may seem strange to the general coding population where timelines are measured
 in months, but with the right idea and enough motivation, things can happen.
@@ -33,7 +33,7 @@ just thinking about talking to someone who has never taken a side on the
 vim/emacs holy war (by the way, vim is clearly superior). Well don't worry,
 everything is going to be okay. It may even be... \*gasp\* ... fun.
 
-Well, there's a few things a coder has to think about before stepping into the
+Well, there's a few things a programmer has to think about before stepping into the
 building. If you think about these things before hand, it will help you be
 successful at your first startup weekend.
 
@@ -62,7 +62,7 @@ Sadly, there aren't a ton of coders that show up to these events. You'll find
 that people will keep coming up to you. Every project needs programmers,
 sometimes more than one. There are just not enough to go around. Ideas die
 quickly when a group can't find coders. Use this to your advantage and pick the
-idea you really like. Chances are they could use another coder.
+idea you really like. Chances are they could use another developer.
 
 ## 4) This is a social event
 
@@ -101,7 +101,7 @@ you find yourself better than average at another MVC framework.
 Also, that windows laptop really won't cut it. I hate to say it (as I'm typing
 on my Windows 7 laptop), but Ruby on Rails sucks on Windows. No worries though,
 just download [VirtualBox](http://www.virtualbox.org/) and the latest copy of
-[Ubuntu](http://www.ubuntu.com/desktop)and go wild. Installing Rails on Ubuntu
+[Ubuntu](http://www.ubuntu.com/desktop) and go wild. Installing Rails on Ubuntu
 is a breeze if you follow the [simple instructions](http://excid3.com/blog/2010/10/ruby-on-rails-3-and-mysql-on-ubuntu-10-10/).
 For those still inclined to stick with windows, you can follow [those instructions](http://accidentaltechnologist.com/ruby-on-rails/running-rails-3-on-windows/)
 instead.

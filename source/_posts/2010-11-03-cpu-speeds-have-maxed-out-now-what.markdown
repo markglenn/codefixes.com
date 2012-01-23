@@ -45,7 +45,7 @@ separate threads just to do the same job that was done on DOS years ago. Users
 expect responsive applications. If you want the truth, try using iTunes on a
 Windows PC.
 
-So some languages have added features to help with calm your worried mind. For
+So some languages have added features to help with calming your worried mind. For
 example, .NET added [Parallel Extensions](http://en.wikipedia.org/wiki/Parallel_Extensions) 
 and the [Reactive Extensions (Rx)](http://msdn.microsoft.com/en-us/devlabs/ee794896.aspx). And
 C++ finally added [lambda expressions](http://en.wikipedia.org/wiki/C++0x#Lambda_functions_and_expressions)
