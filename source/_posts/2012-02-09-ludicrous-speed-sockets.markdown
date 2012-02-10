@@ -14,7 +14,7 @@ frameworks and internal networking software that requires a deep knowledge of ne
 pushing the speed limits on the same hardware.  
 
 In a previous life, I worked on high speed trading software where our traders worried about
-millisecond delays.  We pushed and received so much data that a standard TCP/UDP system could not
+millisecond delays.  We pushed and received so much data that a standard [TCP][tcp]/[UDP][udp] system could not
 come close to keeping up, even on multicore machines with gigabit connections.  What this describes
 is a post-mortem of my learning process.
 
@@ -151,5 +151,7 @@ TLDR: Too long. Didn't Read
 [qos]: http://en.wikipedia.org/wiki/Quality_of_service
 [ack]: http://en.wikipedia.org/wiki/Acknowledgement_(data_networks)
 [transport layer]: http://en.wikipedia.org/wiki/Transport_layer
+[tcp]: http://en.wikipedia.org/wiki/Transmission_Control_Protocol
+[udp]: http://en.wikipedia.org/wiki/User_Datagram_Protocol
 [sliding window]: http://en.wikipedia.org/wiki/Sliding_window_protocol
 [asio]: http://www.boost.org/doc/libs/1_48_0/doc/html/boost_asio.html
