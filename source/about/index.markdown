@@ -8,7 +8,7 @@ footer: false
 
 {% img right /images/markglenn.jpg Mark Glenn %}
 **Who I Am**  
-[Mark Glenn](mailto:mark@codefixes.com). Programmer, Blogger.
+[Mark Glenn](https://plus.google.com/u/1/102499220367792434107). CTO of [Winestyr](https://www.winestyr.com/)
 
 **What I Do**  
 I work with code, whether it be in Ruby, C++, .NET, Python, Erlang...
