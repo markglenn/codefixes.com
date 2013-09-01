@@ -6,3 +6,6 @@
 - You're testing wrong
  - Model tests, duplicate code
  - Speeding up tests in spite of code ( Corey Haines talk )
+- S3 and Octopress
+- How to hash a password
+- Idempotence and the web

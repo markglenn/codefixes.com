@@ -80,7 +80,7 @@ The function should be reentrant
 --------------------------------
 
 A function is considered reentrant if it can be safely interrupted while in the middle of running and re-executed
-before the first pass is completed.  This can happen on a multitasking operating system, which is pretty much every
+before the first pass has completed.  This can happen on a multitasking operating system, which is pretty much every
 O/S in existence today.  For example, let's say we have two threads running the same method on a single core machine.
 At any time, the operating system can stop the first thread and start running the second.  In the case that the two
 threads are executing the same method, the two threads should not clash.  No shared data should be modified that could
@@ -155,7 +155,7 @@ The function should not have any side effects
 
 Speaking of side effects, that is probably the most important aspect of idempotence.  The method should not have any side effects.
 What this means is that every piece of data outside of the method should remain pristine when running a method.  It cannot change
-any values passed in, any values outside of its own scope, or make any changes in the operating system.  Forget when you learned what
+any values outside of its own scope or make any changes in the operating system.  Forget when you learned what
 a function was in computer science and go back to your algebra days.  If your algebra teacher showed you the function `x = x + 1`, you
 would have told her she was crazy since this doesn't make any sense.
 
@@ -173,7 +173,7 @@ More Information
 ----------------
 
 I've talked previously about idempotence.  If you want to learn more about the "why" of idempotent functions, please check 
-out the following articles and expect some further discussions:
+out the following articles and expect some further discussions in the future.
 
 * [Think Functional: Immutable Types and Idempotence](http://www.codefixes.com/2010/11/think-functional-immutable-types-and-idempotence/)
 * [Think Functional: Lambdas and LINQ](http://www.codefixes.com/2010/11/think-functional-lambdas-and-linq/)
