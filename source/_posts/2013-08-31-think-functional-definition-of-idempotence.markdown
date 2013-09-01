@@ -15,7 +15,7 @@ of the world.
 <!-- more -->
 
 The definition of idempontence varies based on context.  However, stating a function (whether it is a RESTful call,
-function call, or SQL command) is idempontent usually means that function has the following properties:
+a function call, or a SQL command) is idempontent usually means that function has the following properties:
 
 1. The function should be referentially transparent.
 2. The function should be reentrant.
