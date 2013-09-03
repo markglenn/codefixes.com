@@ -18,8 +18,8 @@ of the world.
 
 <!-- more -->
 
-The definition of idempontence varies based on context.  However, stating a function (whether it is a RESTful call,
-a function call, or a SQL command) is idempontent usually means that function has the following properties:
+The definition of idempotence varies based on context.  However, stating a function (whether it is a RESTful call,
+a function call, or a SQL command) is idempotent usually means that function has the following properties:
 
 1. The function should be referentially transparent.
 2. The function should be reentrant.
@@ -163,7 +163,7 @@ any values outside of its own scope or make any changes in the operating system.
 a function was in computer science and go back to your algebra days.  If your algebra teacher showed you the function `x = x + 1`, you
 would have told her she was crazy since this doesn't make any sense.
 
-When it comes down to idempontent methods, this also remains true.  A function in algebra is denoted as `f(x) = ...`.  It takes in one
+When it comes down to idempotent methods, this also remains true.  A function in algebra is denoted as `f(x) = ...`.  It takes in one
 or more inputs and returns a result from just those inputs.  Think about your code in the same way.  If I passed in values to your 
 function, I expect calculations to be done only on those values.  It shouldn't change the global variable, `num_calls`.  It shouldn't
 create any files.  It shouldn't change the state of any value outside of the function.  When I call your function, I expect nothing to
