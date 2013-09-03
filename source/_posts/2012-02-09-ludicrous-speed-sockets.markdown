@@ -7,8 +7,8 @@ categories: sockets
 ---
 
 With the popularity boom of internet and intranet based software solutions, and the push for more
-[Service Oriented Architecture (SOA) systems][soa], network software usage is at an all time high.  
-Of course, many of the systems created are built upon highly abstracted frameworks, so they don't 
+[Service Oriented Architecture (SOA) systems][soa], network software usage is at an all time high.  Of
+course, many of the systems created are built upon highly abstracted frameworks, so they don't 
 have to worry much about sockets.  However, there is a high demand for working on those 
 frameworks and internal networking software that requires a deep knowledge of network systems and 
 pushing the speed limits on the same hardware.  

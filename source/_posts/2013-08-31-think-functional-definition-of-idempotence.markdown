@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "Think Functional: Definition of Idempotence"
+description: A programmers definition of idempotence.
+keywords: think functional,functional,programming
 date: 2013-08-31 16:16
 comments: true
-categories: 
+categories:
+- Programming
+- Functional Programming
 ---
 In the most basic of terms, idempotence pertains to the property of certain functions to be applied more than once and always
 returning the same result.  While originally a mathematical term, it has since been added into the vocabulary of the computer 
