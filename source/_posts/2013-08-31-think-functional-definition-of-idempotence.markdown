@@ -5,6 +5,7 @@ description: A programmers definition of idempotence.
 keywords: think functional,functional,programming
 date: 2013-08-31 16:16
 comments: true
+published: false
 categories:
 - Programming
 - Functional Programming
