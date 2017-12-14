@@ -70,7 +70,7 @@ header h2 {
 }
 
 section main {
-  width: 1120px;
+  max-width: 1120px;
   margin: 0 auto;
   padding: 6em 0;
 }
@@ -145,7 +145,7 @@ footer {
 }
 
 footer main {
-  width: 1120px;
+  max-width: 1120px;
   margin: 0 auto;
   padding: 3em 0;
 }
