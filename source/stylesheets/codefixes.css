@@ -8,6 +8,7 @@ header {
   background-size: cover;
   background-position: center;
   height: 600px;
+  transition: height 0.2s;
 }
 
 header nav {
@@ -24,6 +25,8 @@ header nav a {
 
 header h1 {
   font-size: 36px;
+  padding: 5px 10px;
+  transition: font-size 0.2s;
 }
 
 nav {
@@ -57,7 +60,7 @@ header main a {
   text-decoration: none;
   padding: 0.5em 2em;
   font-size: 20px;
-  transition: border-color 0.2s ease 0s, background-color 0.2s ease 0s;
+  transition: background-color 0.2s;
 }
 
 header main a:hover {
@@ -68,6 +71,7 @@ header h2 {
   font-size: 90px;
   color: white;
   margin: 1.5em 0 1em;
+  transition: font-size 0.2s;
 }
 
 section main {
@@ -131,6 +135,7 @@ section div.content {
 
 section i.main-icon {
   font-size: 10em;
+  opacity: 0.7;
 }
 
 section.detail p {
