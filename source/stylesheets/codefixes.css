@@ -6,6 +6,7 @@ body {
 header {
   background-image: url("/header.jpg");
   background-size: cover;
+  background-position: center;
   height: 600px;
 }
 
@@ -108,6 +109,10 @@ section.white {
 section.detail main {
   display: flex;
   justify-content: space-around;
+}
+
+section.reverse-icon main {
+  flex-direction: row-reverse;
 }
 
 section.detail h2 {
@@ -320,13 +325,85 @@ input:focus, textarea:focus {
   background-color:white;
 }
 
-@media only screen and (max-width: 580px) {
+@media only screen and (max-width: 768px) {
 	#form-div{
-		left: 3%;
-		margin-right: 3%;
 		width: 88%;
-		margin-left: 0;
-		padding-left: 3%;
-		padding-right: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
 	}
+}
+
+@media only screen and (max-width: 768px) {
+  header h1 {
+    font-size: 28px;
+  }
+
+  header h2 {
+    font-size: 60px;
+    margin: 1.5em 0 1em;
+  }
+
+  #about-us main {
+    flex-direction: column;
+    padding: 1em;
+  }
+
+  #about-us .icon {
+    float: right;
+    margin: 0.5em 0 0 1em;
+  }
+
+  #about-us figure p {
+    line-height: 1.25em;
+    max-width: initial;
+  }
+
+  #about-us figure {
+    margin:1.5em 0
+  }
+
+  header nav ul {
+    display: none;
+  }
+
+  header {
+    height: 500px;
+  }
+
+  /* Main sections */
+  section i.main-icon {
+    font-size: 6em;
+    display: block;
+    margin: 0em auto 0.5em;
+  }
+
+  section.detail main {
+    flex-direction: column;
+    padding: 3em 1em;
+  }
+
+  section.detail h3 {
+    line-height: 1.5em;
+    margin: 0.75em 0;
+  }
+
+  section div.content {
+    width: 100%;
+  }
+
+  section#logos h1 {
+    text-align: center;
+  }
+
+  section#logos img {
+    margin: 1em auto;
+  }
+
+  section#logos main {
+    padding: 4em 0;
+  }
+
+  section#logos .image-list {
+    flex-direction: column;
+  }
 }
